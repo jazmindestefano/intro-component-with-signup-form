@@ -7,6 +7,8 @@
 body{
     height: 100%;
     background-color: darksalmon;
+    background-image: url(images/bg-intro-desktop.png);
+    padding: 10%;
 }
 .container{
     display: flex;
