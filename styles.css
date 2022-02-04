@@ -16,3 +16,7 @@ body{
     align-items: center;
     flex-direction: row;
 }
+.title-subtitle{
+    color: white;
+    width: 50%;
+}
