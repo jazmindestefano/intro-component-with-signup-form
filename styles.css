@@ -2,7 +2,7 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-    font-family: 'Oswald', sans-serif;
+    font-family: 'Poppins', sans-serif;
 }
 body{
     height: 100%;
@@ -27,4 +27,24 @@ body{
 .sub-title{
     font-size: 80%;
     margin-top: 10%;
+}
+
+/*
+form css
+*/
+
+.form{
+    background-color: white;
+    padding: 5%;
+    border-radius: 3%;
+}
+.button-one{
+    background-color: rgb(146, 21, 146);
+    border: 2px solid rgb(146, 21, 146);
+    padding: 1%;
+    width: 100%;
+    color: white   
+}
+.button-one-span{
+    font-family: 'Poppins', sans-serif;
 }
