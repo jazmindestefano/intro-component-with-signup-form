@@ -63,14 +63,14 @@ form css
     align-items: center;
     flex-direction: column;
     width: 90%;
-    padding: 5%;
+    padding: 6%;
     background-color: white;
 }
 .input{
     display: flex;
     justify-content: space-evenly;
     height: 40px;
-    width: 300px;
+    width: 440px;
 }
 .button-two{
     cursor: pointer;
