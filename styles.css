@@ -4,9 +4,13 @@
     box-sizing: border-box;
     font-family: 'Oswald', sans-serif;
 }
+body{
+    height: 100%;
+    background-color: darksalmon;
+}
 .container{
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 10%;
+    flex-direction: row;
 }
