@@ -82,10 +82,19 @@ form css
     background-color: lightgreen;
     border: 2px solid lightgreen;
 }
+.button-two:hover {
+    background-color: green;
+    border: 2px solid green;
+    cursor: pointer;
+  }
 .terms-and-services{
     font-size: 50%;
 }
 .terms-and-services span{
+    cursor: pointer;
     color: #FF7978;
     font-weight: bold;
+}
+.terms-and-services span:hover{
+    color: #f35454;
 }
