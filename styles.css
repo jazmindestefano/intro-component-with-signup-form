@@ -41,15 +41,14 @@ form css
 }
 
 .button-one{
+    background-color: rgb(124, 12, 124);
+    margin-bottom: 5%;
     width: 90%;
     height: 40px;
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-bottom: 5%;
-    background-color: rgb(124, 12, 124);
-    color: white;
-    font-size: 80%;
+    font-size: 85%;
 }
 
 .button-one-span{
