@@ -54,6 +54,7 @@ form css
     align-items: center;
     font-size: 85%;
     color: white;
+    border-radius: 18px;
 }
 
 .button-one-span{
