@@ -9,3 +9,9 @@ document.querySelectorAll('input').forEach((input) => {
   event.target.style.background = '';    
   });
 });
+
+document.querySelectorAll('input').forEach((input) => {
+    input.addEventListener('onmouseenter', (event) => {
+      event.target.style.background = '#000000';
+  });
+});
